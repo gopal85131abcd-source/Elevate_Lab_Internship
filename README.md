@@ -1,6 +1,6 @@
 # Elevate_Lab_Internship
 This repository showcases the tasks and projects completed during my Data Analyst Internship, focusing on data cleaning, data analysis, visualization, and extracting meaningful insights using tools like Excel, SQL, Python, and Power BI.
-<br>
+
 # Customer Churn Prediction & Retention Analytics Platform
 
 ## Project Overview
@@ -188,5 +188,5 @@ This project demonstrates how data analytics can help businesses understand cust
 * Develop machine learning models for churn prediction
 * Build automated data pipelines
 * Deploy interactive dashboards for real-time monitoring
-<br>
+
 Author - Gopal Kumar 
